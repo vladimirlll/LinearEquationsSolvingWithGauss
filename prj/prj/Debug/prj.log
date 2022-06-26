@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\spectre\Desktop\Информатика\курсовой проект 2 сем (программа)\программа\prj\prj\main.cpp(27,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  prj.vcxproj -> C:\Users\spectre\Desktop\Информатика\курсовой проект 2 сем (программа)\программа\prj\Debug\prj.exe
